@@ -6,6 +6,7 @@ voltage is between **4 - 5V**.
 
 
 **Motivation** 
+
 In my last study, I learned how to utilize potentiometers and create a program that showcases changing voltage in real time. 
 This time, I wanted to build upon that. Not only did I want a program that showcases changing voltage, but also a program that 
 warns the user when voltage is rising using LEDs. 
